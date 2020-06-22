@@ -141,3 +141,4 @@ site
 !**/data/download_scene_dumps.sh
 !**/data/objects
 !**/data/objects/*
+!**/create_dataset.py
